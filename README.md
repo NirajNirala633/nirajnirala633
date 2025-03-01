@@ -90,7 +90,7 @@
 
 ### 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nirajnirala633&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nirajnirala633&show_icons=true&locale=en&layout=compact&theme=radical&exclude_repo=python-learning,data-analysis" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nirajnirala633&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
