@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFDD&center=true&vCenter=true&width=500&height=60&lines=Hello%2C+I'm+Niraj+Kumar+Nirala;A+Passionate+Software+Engineer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFDD¢er=true&vCenter=true&width=500&height=60&lines=Hello%2C+I'm+Niraj+Kumar+Nirala;A+Passionate+Software+Engineer" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -28,6 +28,10 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <!-- Add more social links here if applicable, e.g., Twitter -->
+  <!-- Example: -->
+  <!-- <a href="https://twitter.com/niraj_nirala" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a> -->
 </p>
 
 ---
@@ -36,8 +40,8 @@
 
 #### Programming Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript"/>
@@ -86,16 +90,13 @@
 
 ### 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nirajnirala633&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nirajnirala633&show_icons=true&locale=en&layout=compact&theme=radical&exclude_repo=python-learning,data-analysis" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nirajnirala633&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajnirala633&theme=radical" alt="Streak Stats" />
-</p>
-<p align="center">
-  <img src="https://github.com/nirajnirala633/nirajnirala633/output/snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
