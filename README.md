@@ -96,7 +96,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nirajnirala633&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajnirala633&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirajNirala633&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
